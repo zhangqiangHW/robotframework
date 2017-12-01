@@ -2,3 +2,5 @@
 It contain the code about robotframework
 
 for example
+
+$ is scalar
